@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Prologue
+title: prologue
 author: Langston Hughes
 editor: Alex Gil
 source: Project Guttenberg
