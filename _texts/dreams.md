@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Dreams
+title: Prologue
 author: Langston Hughes
 editor: Alex Gil
 source: Project Guttenberg
